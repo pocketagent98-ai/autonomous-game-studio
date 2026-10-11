@@ -7,6 +7,16 @@ A complete bilingual architecture report — **English** and **हिंदी**
 
 ---
 
+## The built game
+
+This repository now contains a **working game produced by the pipeline**: a playable **3D Temple-Run-style endless runner** built with Godot 4.7.2, in [`game/`](game/).
+
+- Source, controls and build steps: [`game/README.md`](game/README.md)
+- To play: open `game/project.godot` in Godot 4.7.2 and press **F5**.
+- Verified on Godot 4.7.2 with headless tests — `SMOKE` and `DEATHTEST` both pass.
+
+---
+
 ## English Report
 
 ### Building a studio-level 3D game with AI agents on top of Godot Engine — a complete architecture report
